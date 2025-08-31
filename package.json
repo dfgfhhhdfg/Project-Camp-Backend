@@ -1,0 +1,22 @@
+{
+  "name": "promanajment",
+  "version": "1.0.0",
+  "description": "a project managment application for beginners",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "udemy",
+    "course",
+    "backend",
+    "api",
+    "creation"
+  ],
+  "author": "Prajwal H P",
+  "license": "ISC",
+  "devDependencies": {
+    "prettier": "3.6.2"
+  }
+}
